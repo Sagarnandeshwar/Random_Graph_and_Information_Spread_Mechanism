@@ -1,1 +1,2 @@
-# Random_Graph_and_Information_Spread_Mechanism
+# Social Network Graph and Information Spread Mechanism
+Sorry! Descripton Coming Soon...
