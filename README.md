@@ -100,5 +100,46 @@ A custom mechanism was developed by combining:
 ---
 
 ## 📁 Project Structure
+├── src/ # Python implementation of network & spread model
+├── data/ # Twitter datasets (2018–2020 political clusters)
+├── report/ # Final COMP 400 report (PDF)
+└── README.md # You are here
 
+
+---
+
+## 🚧 Future Work
+
+- Incorporate ML for automatic graph parameter tuning
+- Simulate multi-topic message competition
+- Move toward distributed propagation for real-time dynamics
+- Model parameter interdependencies to reduce config complexity
+
+---
+
+## 🗓️ Development Timeline
+
+| Task                         | Date           | Developer         |
+|-----------------------------|----------------|-------------------|
+| Resource Collection          | Sept 23, 2023  | Sagar Nandeshwar  |
+| Network Framework            | Oct 26, 2023   | Sagar Nandeshwar  |
+| Data Collection & Processing| Nov 15, 2023   | Sagar Nandeshwar  |
+| Spread Mechanism             | Dec 05, 2023   | Sagar Nandeshwar  |
+
+---
+
+## 📚 References
+
+Full citation list available in `COMP 400 Report.pdf`. Key references include:
+
+- Erdős–Rényi, Barabási–Albert models
+- Geometric & Stochastic Block Models
+- Bootstrap & First-Passage Percolation
+- Centrality & Clustering Coefficient measures
+
+---
+
+## 🤝 Acknowledgments
+
+Thanks to Prof. Joseph Vybihal for guidance and to McGill University’s COMP 400 course for the opportunity to explore this research.
 
